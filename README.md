@@ -2,12 +2,12 @@
 <p>Módulo 6: Backend con Node y Express (68) > Prueba - Cafeteria Nanacao<br><br></p>
 
 ## Instrucciones para el usuario
-1. Descarga el archivo presionando el botón verde que indica "Code", y luego selecciona **Download ZIP**.
-2. Descomprime el archivo en un directorio deseado.
-3. Abre la carpeta descomprimida en **Visual Studio Code**.
-4. Abre una terminal (preferiblemente bash).
-5. Escribe el comando `npm install` y ejecútalo para instalar las dependencias.
-6. Escribe el comando `npm run test` y ejecútalo para correr los tests.
+1. Descargar el archivo presionando el botón verde que indica "Code", y luego seleccionar **Download ZIP**.
+2. Descomprimir el archivo `examen6-main.zip` en un directorio deseado.
+3. Abrir la carpeta descomprimida en **Visual Studio Code**.
+4. Abrir una terminal (preferiblemente bash).
+5. Escribir el comando `npm install` y ejecutar para instalar las dependencias.
+6. Escribir el comando `npm run test` y ejecutar para correr los tests.
 
 ## Contexto
 Se tiene una **API REST** que gestiona los datos de los productos disponibles en la Cafetería Nanacao, como sus distintos tipos de café. A través de pruebas automáticas, se busca garantizar que las operaciones CRUD (consultas, creaciones, modificaciones y eliminaciones de datos) funcionen correctamente.
