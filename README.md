@@ -58,5 +58,5 @@ Este desafío valida cuatro casos importantes de la API REST y asegura que los c
      - Se verifica que el código de estado sea `400`.
 
 ## Créditos
-Desarrollado por Joaquín López Rojas para Desafío Latam, FullStack Javascript, Generación 68.
+Desarrollado por Joaquín López Rojas para Desafío Latam, FullStack Javascript, Generación 68.<br>
 Saludos cordiales.
